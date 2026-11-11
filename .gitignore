@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+*.session
+*.session-journal
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+venv/
+.venv/
